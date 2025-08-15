@@ -3,6 +3,14 @@ Two segment hopping model actuated by a hill type muscle in between them
 
 This is the replication of the paper titled "Positive force feedback in bouncing gaits?" written by Hartmut Geyer, Andre Seyfarth and Reinhard Blickhan which shows convincing evidence that reflex generated muscle commands may be responsible for periodic hopping, instead of commands from the brain.
 
+Here is an animation of the periodic hops:
+
+
+
+https://github.com/user-attachments/assets/6c4f18d7-85d2-49cf-94ab-43c4dcd97eee
+
+
+
 Geyer H, Seyfarth A, Blickhan R. Positive force feedback in bouncing gaits? Proc Biol Sci. 2003 Oct 22;270(1529):2173-83. doi: 10.1098/rspb.2003.2454. PMID: 14561282; PMCID: PMC1691493.
 (https://pubmed.ncbi.nlm.nih.gov/14561282/)
 
